@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Down
+  - Up
+  - Left
+  - Right
+  - Spike
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3806866265
+    locked: 0
+  - name: Down
+    uniqueID: 3099654689
+    locked: 0
+  - name: Right_Left
+    uniqueID: 378723393
+    locked: 0
+  - name: Up
+    uniqueID: 3461614913
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
